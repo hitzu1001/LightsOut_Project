@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LightsOut_Project/static/css/main.3a4266fa.chunk.css",
+    "main.js": "/LightsOut_Project/static/js/main.52f48982.chunk.js",
+    "main.js.map": "/LightsOut_Project/static/js/main.52f48982.chunk.js.map",
+    "runtime-main.js": "/LightsOut_Project/static/js/runtime-main.28f4e533.js",
+    "runtime-main.js.map": "/LightsOut_Project/static/js/runtime-main.28f4e533.js.map",
+    "static/js/2.36c42850.chunk.js": "/LightsOut_Project/static/js/2.36c42850.chunk.js",
+    "static/js/2.36c42850.chunk.js.map": "/LightsOut_Project/static/js/2.36c42850.chunk.js.map",
+    "index.html": "/LightsOut_Project/index.html",
+    "precache-manifest.263917a3341e0ab7a9ef6afbc1457244.js": "/LightsOut_Project/precache-manifest.263917a3341e0ab7a9ef6afbc1457244.js",
+    "service-worker.js": "/LightsOut_Project/service-worker.js",
+    "static/css/main.3a4266fa.chunk.css.map": "/LightsOut_Project/static/css/main.3a4266fa.chunk.css.map",
+    "static/js/2.36c42850.chunk.js.LICENSE": "/LightsOut_Project/static/js/2.36c42850.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f4e533.js",
+    "static/js/2.36c42850.chunk.js",
+    "static/css/main.3a4266fa.chunk.css",
+    "static/js/main.52f48982.chunk.js"
+  ]
+}
